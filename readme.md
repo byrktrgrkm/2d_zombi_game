@@ -2,8 +2,7 @@
 ## phaser.js ile geliştirildi 
 ### gpt3 <3
 
-Şimdi Oyna : [https://gorkembayraktar.com/zombi-oyunu/](https://gorkembayraktar.com/zombi-oyunu/){:target="_blank"}
-
+Şimdi Oyna : <a href="https://gorkembayraktar.com/zombi-oyunu/" target="_blank">https://gorkembayraktar.com/zombi-oyunu/</a>
 ![Oyun içerisi](game_photos/photo_1.png)
 
 ![Yeniden başlatma](game_photos/photo_2.png)
