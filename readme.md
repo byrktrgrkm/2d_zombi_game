@@ -3,6 +3,9 @@
 ### gpt3 <3
 
 Şimdi Oyna : <a href="https://gorkembayraktar.com/zombi-oyunu/" target="_blank">https://gorkembayraktar.com/zombi-oyunu/</a>
+
+<hr>
+
 ![Oyun içerisi](game_photos/photo_1.png)
 
 ![Yeniden başlatma](game_photos/photo_2.png)
