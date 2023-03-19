@@ -2,6 +2,7 @@
 ## phaser.js ile geliştirildi 
 ### gpt3 <3
 
+Şimdi Oyna : [https://gorkembayraktar.com/zombi-oyunu/](https://gorkembayraktar.com/zombi-oyunu/) 
 
 ![Oyun içerisi](game_photos/photo_1.png)
 
